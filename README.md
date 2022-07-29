@@ -1,2 +1,2 @@
-# terraform-provider-ipam
-nios terraform provider
+# terraform-provider-infoblox
+terraform provider for infoblox ipam
